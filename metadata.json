@@ -1,0 +1,6 @@
+{
+  "name": "Astra AI",
+  "description": "An AI-first productivity companion that proactively schedules, micro-blocks, and guides you to complete work before deadlines.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
